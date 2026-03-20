@@ -28,8 +28,7 @@ conversation about tech.
 
 Tech Stacks/ Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=azure,python,vscode,mongodb,react)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=azure,python,vscode,mongodb,react,fastapi,figma,html,css,js,kotlin)](https://skillicons.dev)
 
 
 
