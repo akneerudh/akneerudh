@@ -27,6 +27,7 @@ Open to collaboration, project ideas, or just a good
 conversation about tech.
 
 Tech Stacks/ Frameworks
+
 [![My Skills](https://skillicons.dev/icons?i=azure,python,vscode,mongodb,react)](https://skillicons.dev)
 
 
