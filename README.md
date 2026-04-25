@@ -1,7 +1,6 @@
 Hi I'm Anirudh
 
 
-
 A student with an intermediate level understanding of tech, 
 currently exploring Cloud Computing, AI/Machine Learning, 
 and Mobile Development.
