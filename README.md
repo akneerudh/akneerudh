@@ -19,7 +19,7 @@ As of now I'm confused about my career path and am still exploring.
 
 - Cloud Computing
 - Artificial Intelligence and Machine Learning
-- Mobile Development
+- Android App Development
 
 
 Open to collaboration, project ideas, or just a good 
