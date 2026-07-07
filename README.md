@@ -3,7 +3,7 @@ Hi I'm Anirudh
 
 A student with an intermediate level understanding of tech, 
 currently exploring Cloud Computing, AI/Machine Learning, 
-and Mobile Development.
+and App Development.
 
 I enjoy experimenting with new tools, building projects, 
 and figuring out how things work under the hood.
